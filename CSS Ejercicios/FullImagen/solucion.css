@@ -1,0 +1,14 @@
+.fondo{
+  background-image: url("Interstellar.png");
+  background-repeat: no-repeat;
+  background-position: center;  
+  height: 100%;
+  width: 100%;
+  background-size: cover;  
+}
+
+html, body{
+  height:100%;
+  width:100%;
+  margin:0px;
+}

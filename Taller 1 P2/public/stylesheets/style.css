@@ -1,0 +1,20 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+form#filtro{
+    text-align: center;
+}
+
+div#divImg{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.categorias , button{
+    font-family: 'Poppins', sans-serif;
+}
+
+img.libros{
+    width: 15%;    
+}

@@ -1,0 +1,22 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Aplicar Typewriter Effect al texto de  h1.(ver REsultado.web)
+
+Pasos: 
+
+1)-. Hacer un @keyframes con nombre typing, que simule el cursor, este empezará y terminara con un border-color: transparent y en el 50% tendra un border-color: orange. 
+
+2)-. Hacer  @keyframes con nombre blink-caret, que simule que las letra se vayan tipeando, empecerá en width: 0 y terminará en width: 100% (esto hara que h1 aumente su width desde 0 a 100.
+
+3)-. Setear la propiedad animation en h1 y utilice:
+  * blink-caret con duracion de .5s se repita infinitamente en un solo paso.
+  * typing con duracion de 4s y que se realice en 44 pasos(cantidad de letras).
+ 
+ 
+Referencias:
+
+CSS @keyframes Rule. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp
+
+Trythall, J., & Trythall, J. (2014). How to Use steps() in CSS Animations. Retrieved 23 October 2020, from https://designmodo.com/steps-css-animations/
+ 
+Typewriter Effect | CSS-Tricks. (2017). Retrieved 23 October 2020, from https://css-tricks.com/snippets/css/typewriter-effect/

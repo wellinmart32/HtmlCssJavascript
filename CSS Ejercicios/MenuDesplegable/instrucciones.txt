@@ -1,0 +1,12 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Colocar el nav en la parte superior derecha y utilizar hover para desplegar los submenus.(Ver Resultado.png)
+
+
+1)-. Situar el div de clase "nav" en la esquina superior derecha.
+2)-. Seguir los pasos del tutorial mostrado en las referencias (la parte del css).
+3)-. (Opcional) Colocar un color transparente en el nav.  
+				
+Referencias:
+
+Como hacer un menú desplegable con HTML y CSS - FalconMasters. (2014). Retrieved 23 October 2020, from http://www.falconmasters.com/tutoriales/como-hacer-un-menu-desplegable/

@@ -1,0 +1,22 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Ocultar parte del menu lateral tal que solo se vean los iconos blancos, al pasar el cursor por encima de algun li este debe volver a su forma original y cambiar el color de fondo.(Ver Resultado.webm)
+
+Pasos:
+
+1)-. Trasladar cada li a largo del eje horizontal 95px, de tal manera que solo se vea el icono y no las letras.
+2)-. Al hacer hover a algun li, este debe trasladarse a su pocision original(0px).
+3)-. Para suavisar el cambio se aplica a li una transition de .5s.
+4)-. Colocar a cada li un color diferente al hacer hover (Usar el selector :nth-child):
+      FB        : #47b6f5
+      Twitter   : #fc210b
+      Google    : #ff8c4f
+      Pinterest : #4c0de0
+
+Referencias:
+
+Transformaciones CSS. (2020). Retrieved 23 October 2020, from http://w3.unpocodetodo.info/css3/transform.php
+
+CSS Transitions. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/css/css3_transitions.asp
+
+CSS :nth-child() Selector. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/cssref/sel_nth-child.asp

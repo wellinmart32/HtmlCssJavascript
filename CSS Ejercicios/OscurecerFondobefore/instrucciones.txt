@@ -1,0 +1,16 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Agregar al div de clase "fondo" un overlay oscuro con ::before para que el texto sea legible.(Ver Resultado.png)
+
+Pasos:
+
+1)-. Aplicar el selector :before a la clase fondo.
+2)-. Setear el tamaño con width y height con 100%
+3)-. setear la posiion con top y left 0
+4)-. Colocar la propiedad	background-color: rgba(0,0,0,0.4) para dar el efecto oscuro.
+
+Referencias:
+
+CSS ::before Selector. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/cssref/sel_before.asp
+
+Use CSS ::before and ::after for simple, spicy image overlays - bryanlrobinson.com. (2018). Retrieved 23 October 2020, from https://bryanlrobinson.com/blog/how-to-css-after-elements-for-background-overlays/

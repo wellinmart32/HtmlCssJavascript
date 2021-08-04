@@ -1,0 +1,18 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Aplicar un color diferente a cada fila segun como lo indica mas adelante(Ver Resultado):
+
+1)-. Aplicar background: #eee a todas las filas con total 10. 
+2)-. Aplicar background: rgb(209, 138, 138) a todas las filas con total 0.
+3)-. Aplicar background: rgb(151, 235, 118) a todas las filas con total 100
+4)-. Aplicar a la ultima fila 
+      * background: #333; 
+      * color: white;
+
+
+Referencias:
+
+:nth-child. (2019). Retrieved 23 October 2020, from 
+https://developer.mozilla.org/es/docs/Web/CSS/:nth-child 
+
+:last-child. (2019). Retrieved 23 October 2020, from https://developer.mozilla.org/es/docs/Web/CSS/:last-child

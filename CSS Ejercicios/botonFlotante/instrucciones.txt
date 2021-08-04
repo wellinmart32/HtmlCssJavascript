@@ -1,0 +1,27 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Situar la clase "whatsapp" como boton flotante fijo en la esquina inferior derecha y al hacer hover que aumente el brillo. (Ver Resultado.png)
+
+Colocar en clase "whatsapp" :
+
+1)-. La propiedad position para que el boton quede fijo en un solo sitio.
+2)-. Las propiedades bottom y right en 40 px. 
+3)-. Tamaño de 60 x 60 px.
+4)-. La propiedad color con blanco.
+5).- Color de fondo #25d366.
+6)-. Hacerlo circular. 
+7)-. Alinear el texto al centro con size 30px. 
+8)-. Situarlo sobre todos los elementos.
+9)-. Aumente el brillo cuando el mouse pase por encima.
+
+Referencias:
+
+CSS Layout - The position Property. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/css/css_positioning.asp
+
+CSS border-radius property. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/cssref/css3_pr_border-radius.asp
+
+CSS font-size property. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/cssref/pr_font_font-size.asp
+
+CSS z-index property. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/cssref/pr_pos_z-index.asp
+
+brightness(). (2020). Retrieved 23 October 2020, from https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness

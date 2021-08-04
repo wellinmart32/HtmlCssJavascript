@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Taller 1</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,400&display=swap" rel="stylesheet">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    
+    <div id="content">        
+        <form action="/libros" method="post" name="filtro" id="filtro">
+        <label for="categories">Categorías: </label>
+        <select class="categorias" id="categories" name="category">
+            <option selected value="ver-todo">Ver todo</option>
+            <% i=0 
+            while (i<=categorias.length-1){%>
+            <option value="<%= categorias[i]%>"><%= categorias[i]%></option>               
+            <%i++ }%>
+        </select>
+        <button type="submit">Filtrar</button>
+        </form>
+        <div id="divImg">
+        <% i=0 
+            while (i<=libros.length-1){%>
+            <img class="libros" src="<%= libros[i]%>"</img>               
+        <%i++ }%></div>
+
+    </div>        
+  </body>
+</html>

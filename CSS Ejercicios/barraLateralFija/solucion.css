@@ -1,0 +1,26 @@
+/* *{
+  font-family:'Opens Sans',helvetica;  
+}*/
+
+ul >li {
+  transform: translateX(-95px);
+  transition: transform .5s;
+}
+
+ul >li:hover {
+  transform:translateX(0px);
+  
+}
+
+ul >li:hover:nth-child(1) {   
+  background: #47b6f5;
+}
+ul >li:hover:nth-child(2) {   
+  background: #fc210b
+}
+ul >li:hover:nth-child(3) {   
+  background: #ff8c4f;
+}
+ul >li:hover:nth-child(4) {   
+  background: #4c0de0
+}

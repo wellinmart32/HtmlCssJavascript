@@ -1,0 +1,15 @@
+@keyframes typing {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+@keyframes blink-caret {  
+  from { width: 0 }
+  to { width: 100% }
+}
+
+.typewriter h1{
+  animation: 
+  blink-caret 4s steps(44, end),
+  typing .5s step-end infinite;
+}

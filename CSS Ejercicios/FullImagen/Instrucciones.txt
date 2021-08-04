@@ -1,0 +1,36 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Colocar la imagen adjunta (Interstellar.png) dentro del div con clase "fondo", de tal manera que la imagen ocupe toda la pantalla sin repetirse.(Ver Resultado.png)
+
+
+Pasos:
+
+Aplicarle a clase "fondo" :
+
+  1)-. La propiedad background para cargar la imagen.
+  2)-. La propiedad background-repeat para que no se repita la imagen.
+  3)-. La propiedad  background-position para que se centre la imagen.
+  4)-. Se coloca la propiedad height y width con un 100% para que ocupe todo el contenedor.
+  5)-. Se coloca la propiedad background-size para que la imagen cubra todo el div.
+
+
+Aplicarle a las etiquetas html y body :
+
+  1)-. Se coloca la propiedad height y width con un 100% para que ocupe toda la pantalla.
+  2)-. Se le quita los márgenes con la propiedad margin.
+
+
+
+Referencias:
+
+CSS Background Image. (2020). Retrieved 22 October 2020, from https://www.w3schools.com/css/css_background_image.asp
+
+CSS Background Repeat. (2020). Retrieved 22 October 2020, from https://www.w3schools.com/css/css_background_repeat.asp
+
+CSS Background Repeat. (2020). Retrieved 22 October 2020, from https://www.w3schools.com/css/css_background_repeat.asp
+
+CSS background-size property. (2020). Retrieved 22 October 2020, from https://www.w3schools.com/cssref/css3_pr_background-size.asp
+
+CSS Margin. (2020). Retrieved 22 October 2020, from https://www.w3schools.com/css/css_margin.asp
+
+

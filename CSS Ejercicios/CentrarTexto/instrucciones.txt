@@ -1,0 +1,21 @@
+*Revisar las referencias para poder realizar el ejercicio*
+
+Centrar la clase contenedor (contiene el titulo y subtitulo) sobre la clase fondo.(Ver Resultado.png)
+
+Pasos:
+
+En la clase contenedor:
+
+1)-. Utilizar la propiedad position junto con top para situar el div sobre el otro div.
+
+2)-. Utilizar la propiedad width con un 100% para ocupar todo el ancho.
+
+3)-. Utilizar la propiedad text-align para centrar el texto.
+
+4)-. Para que quede por debajo del centro, situar el top con 50%.
+
+
+Referencias:
+
+CSS Layout - The position Property. (2020). Retrieved 23 October 2020, from https://www.w3schools.com/css/css_positioning.asp
+

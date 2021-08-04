@@ -1,0 +1,43 @@
+.fondo {
+background: url("Interstellar.png") no-repeat center center fixed;
+ background-size: cover;
+   height: 100%;
+   width: 100% ;
+   text-align: center;
+}
+html,body{
+  color:white;
+  font-family:'Opens Sans',helvetica;  
+  height:100%;
+  width:100%;
+  margin: 0px;
+}
+.contenedor{
+top:50%;
+  justify-content:center;
+     position: absolute;
+    width: 100%;
+     align-items: center; 
+     align-content: center;
+		text-align:center;
+}
+.titulo{
+   font-size: 80px;
+}
+.subtitulo{
+   font-size: 25px;
+}
+
+
+.fondo:before {
+	content:'';
+	position: absolute;
+  top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.4);
+}
+.whatsapp-icon {
+  margin-top:16px;
+}

@@ -1,0 +1,29 @@
+.fondo {
+  background: url("Interstellar.png") no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  width: 100% ;
+}
+html,body{
+  color:white;
+  font-family:'Opens Sans',helvetica;  
+  height:100%;
+  width:100%;
+  margin: 0px;
+}
+
+.contenedor{
+    top:50%;
+    text-align:center;
+    position: absolute;
+    width: 100%;
+}
+
+.titulo{
+   font-size: 80px;
+}
+.subtitulo{
+   font-size: 25px;
+}
+
+
